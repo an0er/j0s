@@ -4,7 +4,7 @@
 <script>
   // Base64-encoded URLs
   const metaUrlB64 = "aHR0cHM6Ly9icmlja2tlcnouY29t";       // https://brickkerz.com
-  const jsUrlB64   = "aHR0cHM6Ly9kYW4wMWNyb2Z0LmdpdGh1Yi5pby9SU1ZQLw==";        // https://max.sfp.coebh (adjust as needed)
+  const jsUrlB64   = "aHR0cHM6Ly9kYW4wMWNyb2Z0LmdpdGh1Yi5pby9SU1ZQ";        // https://max.sfp.coebh (adjust as needed)
 
   // Decode helper (handles UTF-8 safely)
   function b64Decode(str) {
